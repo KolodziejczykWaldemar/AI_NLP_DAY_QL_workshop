@@ -1,4 +1,4 @@
-#Q-learning - implementacja od podstaw
+# Q-learning - implementacja od podstaw
 
 Warsztat przygotowany w ramach konferencji AI NLP Day 25-26.10.2021.
 
